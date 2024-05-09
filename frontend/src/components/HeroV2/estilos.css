@@ -1,0 +1,10 @@
+
+  
+  .svg-container svg {
+    transition: opacity 0.5s ease; 
+  }
+  
+  .svg-container svg.visible {
+    opacity: 1;
+  }
+  

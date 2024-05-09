@@ -1,0 +1,201 @@
+{
+  "homePage": {
+    "hero": {
+      "title": "COMPRA ENTRADAS OLIMPIADAS 2024",
+      "subtitle": "¡Adéntrate en lo inolvidable! Desde entradas individuales hasta paquetes de hospitalidad y viaje, descubre las ofertas disponibles para los Juegos Olímpicos y Paralímpicos París 2024.",
+      "btnBuyTickets": " Comprar Entradas",
+      "btnCalendar": " Calendario de Eventos"
+    },
+    "header": {
+      "openMainMenu": "Abrir menú principal",
+      "btnHome": "Home",
+      "btnEvents": "Eventos"
+    },
+    "timer": {
+      "title": "Sorteo Entradas",
+      "date": "31/3/24",
+      "days": "Días",
+      "hours": "Horas",
+      "mins": "Minutos",
+      "segs": "Segundos",
+      "finishedLottery": "¡Sorteo Finalizado!",
+      "thanks": "Gracias por participar en nuestro sorteo."
+    },
+    "homeDescription": {
+      "question": "¿Como compro entradas para los Juegos Olímpicos 2024?",
+      "body": "¡Celebra las Olimpiadas de París con nosotros y disfruta del deporte de clase mundial!",
+      "body2": "Para comprar entradas para los Juegos Olímpicos 2024, sigue estos sencillos pasos:",
+      "register": "Registro",
+      "p1": "Regístrate antes del ",
+      "p12": " para poder comprar tus entradas entrando en el sorteo de semanas de compra, para tener la oportunidad de comprar entradas para los emocionantes eventos olímpicos.",
+      "span": "Info",
+      "span2": "¡Aviso!",
+      "span3": "Regístrate antes del 30 de marzo de 2024 para poder comprar tus entradas, si no lo haces no podrás participar en el sorteo de semanas de compra.",
+      "p2": "Sorteo y Asignación de Grupos ",
+      "p3": "Una vez registrado, el ",
+      "p31": " se llevará a cabo un sorteo para organizar a los usuarios en 4 grupos. Cada grupo tendrá una semana asignada en abril y otra en mayo para comprar las entradas.",
+      "p4": "Compra de Entradas ",
+      "p5": "Durante la semana asignada a tu grupo, inicia sesión en la aplicación y explora la lista de eventos disponibles. Selecciona el evento al que deseas asistir y elige la fecha y la cantidad de entradas que deseas comprar. Completa el proceso de pago de forma segura a través de nuestros métodos de pago disponibles.",
+      "span4": "Info",
+      "div": "Recuerda que los usuarios solo podrán comprar entradas durante las semanas asignadas y no podrán intentarlo en otras semanas, con un maximo de 5 entradas por cada 3 eventos como máximo en cada periodo",
+      "felicidades": "¡Felicidades!, Has comprado tus entradas, ahora solo queda esperar y disfrutar del evento.",
+      "i": "Compra solo en Fuentes Oficiales",
+      "info": "Al comprar entradas o paquetes de hospitalidad fuera de los canales oficiales, el comprador corre el riesgo de que las entradas o paquetes no les sean entregados, o de que se les niegue el acceso a los lugares deportivos por parte del Comité Organizador de París 2024 de acuerdo con los términos y condiciones generales de venta de entradas. Además, se informa a todos los compradores y/o vendedores que la venta o reventa no autorizada de entradas fuera de los canales oficiales constituye un delito según la ley francesa, en particular, un delito sancionable según el artículo 313-6-2 del código penal francés."
+    },
+    "homeAccordion": {
+      "question": "¿Como compro entradas para los Juegos Olímpicos 2024?",
+      "preguntasFrecuentes": "Preguntas frecuentes",
+      "question1": "¿Cuándo es la fecha límite para registrarse en la aplicación y participar en el sorteo para comprar entradas?",
+      "response1": "La fecha límite para registrarse en la aplicación y participar en el sorteo es el 30 de marzo de 2024. Asegúrate de completar tu registro antes de esta fecha para tener la oportunidad de comprar entradas para los Juegos Olímpicos 2024.",
+      "question2": "¿Cómo se asignan los grupos para comprar entradas y cuántos grupos hay?",
+      "response2": "Después del cierre de registros el 30 de marzo de 2024, se realizará un sorteo para organizar a los usuarios en 4 grupos. Cada grupo tendrá una semana asignada en abril y otra en mayo para comprar las entradas.",
+      "question3": "¿Puedo intentar comprar entradas en una semana que no corresponde a mi grupo?",
+      "response3": "No, los usuarios solo pueden comprar entradas durante la semana asignada a su grupo. No será posible intentar comprar entradas en otra semana diferente a la asignada.",
+      "question4": "¿Qué sucede si no logro comprar entradas durante la semana asignada a mi grupo?",
+      "response4": "Si no logras comprar entradas durante la semana asignada a tu grupo, lamentablemente no podrás comprar entradas para los Juegos Olímpicos 2024. Es importante estar atento a las fechas asignadas y realizar la compra dentro del período especificado.",
+      "question5": "¿Qué debo hacer después de comprar mis entradas?",
+      "response5": "Después de comprar tus entradas, asegúrate de revisar la información del evento, incluida la fecha, la hora y el lugar. Llega al evento con suficiente antelación para evitar contratiempos y disfrutar al máximo de la experiencia olímpica. ¡Que disfrutes de los Juegos Olímpicos 2024!"
+    },
+    "footer": {
+      "politicaCookies": "Política de cookies",
+      "ajustesCookies": "Ajustes de Cookies",
+      "politicaPrivacidad": "Política de privacidad",
+      "terminosServicios": "Términos de servicios",
+      "centroContact": "Centro de contacto",
+      "getNews": "Quieres recibir las últimas noticias de los Juegos Olímpicos?",
+      "email": "Email",
+      "subs": "Suscribirse",
+      "disponible": "Disponible en",
+      "copyright": "© Copyright ",
+      "derechosReservados": " Comité Olímpico Internacional. Todos los derechos reservados."
+    }
+  },
+  "profilePage": {
+    "profile": {
+      "userInfo": "Información del usuario",
+      "userDetails": "Detalles del usuario.",
+      "fullName": "Nombre completo",
+      "correo": "Correo electrónico",
+      "verified": "Verificado",
+      "token": "Token",
+      "lastUpdate": "Actualizado por última vez"
+    }
+  },
+  "logInPage": {
+    "logIn": {
+      "toastErrorName": "El nombre es obligatorio.",
+      "toastErrorMail": "El correo es obligatorio.",
+      "toastErrorPass": "La contraseña debe tener al menos 8 caracteres.",
+      "toastSuccess": "Registro completado",
+      "toastErrorAPIresponse": "Error desconocido en la respuesta de la API",
+      "toastErrorServer": "Error en el servidor",
+      "toastErrorPassRep": "Las contraseñas no coinciden.",
+      "createAccount": "Crea una cuenta",
+      "fullName": "Nombre Completo",
+      "mail": "Correo Electrónico",
+      "pass": "Contraseña",
+      "repPass": "Repite la Contraseña",
+      "createAcc": "Crear Cuenta",
+      "aceptCookies": "Al registrarte, aceptas nuestras ",
+      "dataPolicy": "Política de Datos",
+      "cookiesPolicy": "Política de Cookies",
+      "logIn": "¿Ya tienes cuenta? Inicia Sesión."
+    },
+    "cart": {
+      "deleteTickets": "¿Estás seguro de que quieres eliminar todos los tickets ",
+      "discountAplicado": "Código de descuento aplicado correctamente",
+      "maxBuy": "No puedes comprar más de 15 tickets en un solo pedido",
+      "toastErrorUserID": "No se pudo obtener el userId",
+      "toastErrorBuyTickets": "Error al comprar los tickets",
+      "buyingTickets": "Comprando tickets...",
+      "buyTicketsSuccess": "Tickets comprados correctamente",
+      "emptyCart": "¿Estás seguro de que quieres vaciar la cesta?",
+      "obligatoryLogIn": "Debe Inciar Sesión",
+      "apologizeLogIn": "Sentimos las molestias pero debe iniciar sesión para poder comprar tickets.",
+      "logIn": "Iniciar Sesión",
+      "cart": "Cesta",
+      "emptyCart2": "No hay tickets en el carrito",
+      "payConfirm": "Confirmación de pago",
+      "noTicketsInCart": "No hay tickets en el carrito",
+      "subtotal": "Subtotal",
+      "iva": "IVA",
+      "total": "Total",
+      "discount": "Código de descuento",
+      "buy": "Comprar",
+      "payApple": "Pagar con ApplePay",
+      "payVisa": "Pagar con Visa",
+      "payMastercard": "Pagar con Mastercard",
+      "payPayPal": "Pagar con PayPal",
+      "payAE": "Pagar con American Express",
+      "securePays": "Pagos Seguros",
+      "secureData": "Con socios de pago populares, tus datos personales están seguros.",
+      "click": "Al hacer click en \"Comprar\", aceptas las Condiciones de uso y la Política de privacidad de Olympic2024, tanto si los terminos y condiciones son aceptados."
+    }
+  },
+  "calendarPage": {
+    "title": "Calendario de Eventos",
+    "subtitle": "Aquí puedes ver los eventos que tenemos programados para estas olimpiadas 2024.",
+    "noTickets": "No se pudieron obtener los tickets.",
+    "getTicketsError": "Error al obtener los tickets."
+  },
+  "eventsPage": {
+    "slotAssigned": {
+      "tokenError": "No se pudo obtener el token de acceso.",
+      "mustLogIn": "Debe Iniciar Sesión",
+      "apologize": "Sentimos las molestias pero debe iniciar sesión para ver los posibles eventos para comprar",
+      "login": "Iniciar Sesión",
+      "loading": "Loading...",
+      "shoppingWeeks": "Semanas de Compra",
+      "noSlots": "Le informamos que no dispone de ranuras asignadas en este momento, posiblemente no haya sido asignado a ningúna ranura o se le haya pasado la fecha de compra, lamentamos las molestias.",
+      "yesSlots": ", nos alegramos de informarte que tienes una ranuras asignadas.",
+      "dispones": "Dispones de ",
+      "infoSlots": " ranuras asignadas, en cada una de estas ranuras puedes comprar tus entradas al evento asignado a dicha ranura. Dispones de un total de 7 días para realizar la compra de tus entradas.",
+      "bienvenido": "Bienvenido ",
+      "maxTickets": "Tienes la posibilidad de comprar maximo hasta 5 entradas para 3 eventos como máximo en cada periodo de compra.",
+      "assignedWeeks": "Semanas Asignadas",
+      "week": "Semana "
+    }
+  },
+  "loginButton": {
+    "login": "Iniciar Sesión"
+  },
+  "userNav": {
+    "loading": "Loading...",
+    "cesta": "Cesta",
+    "logout": "Cerrar sesión",
+    "tickets": "Tickets"
+  },
+  "ticketCard": {
+    "description": "Description: ",
+    "seatsNum": "Número de sitios disponibles: ",
+    "addCart": "Añadir a la cesta"
+  },
+  "productCard": {
+    "total": "Total: ",
+    "event": "Evento: ",
+    "site": "Sitio nº: ",
+    "zone": "Zona: ",
+    "numTicketsAvailable": "Nº de entradas disponibles: ",
+    "date": "Fecha: ",
+    "addCart": "Añadir a la cesta"
+  },
+  "boughtTicket": {
+    "mustLogIn": "Debe Iniciar Sesión",
+    "apologize": "Sentimos las molestias pero debe iniciar sesión para ver los posibles eventos para comprar",
+    "buyedTickets": "Tickets comprados ",
+    "seeTickets": "Aquí puedes ver los tickets que has comprado para los eventos de las olimpiadas 2024",
+    "qr": "El codigo QR generado sera con el cual podras acceder al evento."
+  },
+  "eventsAvailable": {
+    "toastError": "No se pudieron obtener los deportes.",
+    "selectSport": "Selecciona un deporte para ver los tickets disponibles",
+    "selectWeek": "Selecciona una semana para ver los eventos disponibles"
+  },
+  "perfil": "Perfil",
+  "cartProvider": {
+    "toast1": "No se pueden comprar más de 5 entradas para el mismo deporte",
+    "toast2": "No se pueden comprar entradas para más de 3 deportes diferentes",
+    "toast3": "¡Entrada añadida al carrito!"
+}
+
+}

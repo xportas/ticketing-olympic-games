@@ -1,0 +1,199 @@
+{
+  "homePage": {
+    "hero": {
+      "title": "购买2024年奥运会门票",
+      "subtitle": "探索从单张门票到款待和旅行套餐的各种提供，发现2024年巴黎奥运会和残奥会的优惠。",
+      "btnBuyTickets": "购买门票",
+      "btnCalendar": "事件日历"
+    },
+    "header": {
+      "openMainMenu": "打开主菜单",
+      "btnHome": "主页",
+      "btnEvents": "事件"
+    },
+    "timer": {
+      "title": "门票抽签",
+      "date": "2024年3月31日",
+      "days": "天",
+      "hours": "小时",
+      "mins": "分钟",
+      "segs": "秒",
+      "finishedLottery": "抽签已结束！",
+      "thanks": "感谢您参与我们的抽签活动。"
+    },
+    "homeDescription": {
+      "question": "如何购买2024年奥运会门票？",
+      "body": "与我们一起庆祝巴黎奥运会，享受世界一流的体育盛会！",
+      "body2": "要购买2024年奥运会门票，请按照以下简单步骤进行：",
+      "register": "注册",
+      "p1": "在此之前注册 ",
+      "p12": " 以便有机会购买您的门票并参加购票周期的抽奖，有机会购买令人兴奋的奥运会活动门票。",
+      "span": "信息",
+      "span2": "注意",
+      "span3": "请在2024年3月30日之前注册，以便购买门票。如果未注册，您将无法参加购票周抽签活动。",
+      "p2": "抽签和分组",
+      "p3": "注册后 ",
+      "p31": " 将用户分成4个组。每个组将在4月和5月各分配一周的时间购买门票。",
+      "p4": "购票",
+      "p5": "在您组分配的周内，登录应用程序并浏览可用事件列表。选择您想参加的事件，并选择您要购买的日期和门票数量。通过我们提供的安全支付方式完成支付流程。",
+      "span4": "信息",
+      "div": "请记住，用户只能在分配的周内购买门票，不能在其他周尝试购买，每个购票周期最多每3个事件可购买5张门票。",
+      "felicidades": "恭喜您！您已购买了门票，现在只需等待并享受活动。",
+      "i": "仅从官方渠道购买",
+      "info": "购买非官方渠道的门票或款待套餐，购买者面临着未能交付门票或款待套餐的风险，或者根据巴黎2024组委会门票的通用销售条款和条件被拒绝进入体育场地。此外，特此通知所有购买者和/或销售者，未经官方渠道授权的门票销售或转售构成法律侵权，特别是依据法国法律第313-6-2条对侵权行为进行处罚。法国刑法。"
+    },
+    "homeAccordion": {
+      "question": "如何购买2024年奥运会门票？",
+      "preguntasFrecuentes": "常见问题",
+      "question1": "注册应用程序并参加购票抽签的截止日期是什么时候？",
+      "response1": "注册应用程序并参加抽签的截止日期是2024年3月30日。请确保在此日期之前完成注册，以有机会购买2024年奥运会门票。",
+      "question2": "如何分配购票的组别以及有多少组别？",
+      "response2": "在2024年3月30日注册截止后，将进行抽签，将用户分成4个组。每个组将在4月和5月各分配一周的时间购买门票。",
+      "question3": "我可以在不属于我的组的周尝试购票吗？",
+      "response3": "不可以，用户只能在其组分配的周购买门票。不可能在非分配的周尝试购票。",
+      "question4": "如果我在我的组分配的周内无法购买门票会发生什么？",
+      "response4": "如果您在分配给您组的周内无法购买门票，遗憾的是您将无法购买2024年奥运会门票。重要的是要注意分配日期，并在指定的期限内购买。",
+      "question5": "购买门票后我该怎么办？",
+      "response5": "购买门票后，请确保查看活动信息，包括日期、时间和地点。请提前到达活动现场，以避免不便，并充分享受奥林匹克体验。祝您享受2024年奥运会！"
+    },
+    "footer": {
+      "politicaCookies": "Cookie政策",
+      "ajustesCookies": "Cookie设置",
+      "politicaPrivacidad": "隐私政策",
+      "terminosServicios": "服务条款",
+      "centroContact": "联系中心",
+      "getNews": "想要获取奥运会的最新消息吗？",
+      "email": "电子邮件",
+      "subs": "订阅",
+      "disponible": "可用于",
+      "copyright": "© 版权 ",
+      "derechosReservados": " 国际奥林匹克委员会。保留所有权利。"
+    }
+  },
+  "profilePage": {
+    "profile": {
+      "userInfo": "用户信息",
+      "userDetails": "用户详细信息。",
+      "fullName": "全名",
+      "correo": "电子邮件",
+      "verified": "已验证",
+      "token": "令牌",
+      "lastUpdate": "上次更新时间"
+    }
+  },
+  "logInPage": {
+    "logIn": {
+      "toastErrorName": "姓名为必填项。",
+      "toastErrorMail": "电子邮件为必填项。",
+      "toastErrorPass": "密码必须至少包含8个字符。",
+      "toastSuccess": "注册完成",
+      "toastErrorAPIresponse": "API响应错误",
+      "toastErrorServer": "服务器错误",
+      "toastErrorPassRep": "密码不匹配。",
+      "createAccount": "创建账号",
+      "fullName": "全名",
+      "mail": "电子邮件",
+      "pass": "密码",
+      "repPass": "重复密码",
+      "createAcc": "创建账号",
+      "aceptCookies": "注册即表示您同意我们的",
+      "dataPolicy": "数据政策",
+      "cookiesPolicy": "Cookie政策",
+      "logIn": "已有账号？登录。"
+    },
+    "cart": {
+      "deleteTickets": "确定要删除所有票吗",
+      "discountAplicado": "折扣码已成功应用",
+      "maxBuy": "您不能在单个订单中购买超过15张门票",
+      "toastErrorUserID": "无法获取用户ID",
+      "toastErrorBuyTickets": "购买票务错误",
+      "buyingTickets": "购买票务中...",
+      "buyTicketsSuccess": "门票购买成功",
+      "emptyCart": "确定要清空购物车吗？",
+      "obligatoryLogIn": "必须登录",
+      "apologizeLogIn": "抱歉，您必须登录才能购买门票。",
+      "logIn": "登录",
+      "cart": "购物车",
+      "emptyCart2": "购物车中没有门票",
+      "payConfirm": "支付确认",
+      "noTicketsInCart": "购物车中没有门票",
+      "subtotal": "小计",
+      "iva": "增值税",
+      "total": "总计",
+      "discount": "折扣码",
+      "buy": "购买",
+      "payApple": "使用ApplePay支付",
+      "payVisa": "使用Visa支付",
+      "payMastercard": "使用Mastercard支付",
+      "payPayPal": "使用PayPal支付",
+      "payAE": "使用美国运通支付",
+      "securePays": "安全支付",
+      "secureData": "与热门支付合作伙伴一起，您的个人数据是安全的。",
+      "click": "点击“购买”按钮即表示您接受Olympic2024的使用条款和隐私政策，无论您是否接受这些条款和条件。"
+    }
+  },
+  "calendarPage": {
+    "title": "事件日历",
+    "subtitle": "在这里，您可以查看我们为2024年奥运会安排的事件。",
+    "noTickets": "无法获取门票。",
+    "getTicketsError": "获取门票时出错。"
+  },
+  "eventsPage": {
+    "slotAssigned": {
+      "tokenError": "无法获取访问令牌。",
+      "mustLogIn": "必须登录",
+      "apologize": "抱歉，您必须登录才能查看可能购买的事件",
+      "login": "登录",
+      "loading": "加载中...",
+      "shoppingWeeks": "购物周",
+      "noSlots": "我们很抱歉，您当前没有分配的时间段，可能是您未分配到时间段，或者已经过了购买日期，为此我们深感抱歉。",
+      "yesSlots": "，我们很高兴地通知您，您有分配的时间段。",
+      "dispones": "您有",
+      "infoSlots": "个分配的时间段，您可以在每个时间段内购买分配给该时间段的事件的门票。您有7天的时间来购买您的门票。",
+      "bienvenido": "欢迎 ",
+      "maxTickets": "您最多可以在每个购票周期最多购买3个事件的5张门票。",
+      "assignedWeeks": "分配的周",
+      "week": "周 "
+    }
+  },
+  "loginButton": {
+    "login": "登录"
+  },
+  "userNav": {
+    "loading": "加载中...",
+    "cesta": "购物车",
+    "logout": "登出",
+    "tickets": "门票"
+  },
+  "ticketCard": {
+    "description": "描述：",
+    "seatsNum": "可用座位数：",
+    "addCart": "添加到购物车"
+  },
+  "productCard": {
+    "total": "总计：",
+    "event": "事件：",
+    "site": "地点编号：",
+    "zone": "区域：",
+    "numTicketsAvailable": "可用门票数量：",
+    "date": "日期：",
+    "addCart": "添加到购物车"
+  },
+  "boughtTicket": {
+    "mustLogIn": "必须登录",
+    "apologize": "抱歉，您必须登录才能查看可能购买的事件",
+    "buyedTickets": "已购票 ",
+    "seeTickets": "您可以在此处查看您为2024年奥运会购买的门票",
+    "qr": "生成的QR码将用于您访问事件。"
+  },
+  "eventsAvailable": {
+    "toastError": "无法获取体育项目。",
+    "selectSport": "请选择一项体育项目以查看可用门票",
+    "selectWeek": "请选择一周以查看可用事件"
+  },
+  "perfil": "轮廓",
+  "cartProvider": { 
+    "toast1": "同一运动项目不能购买超过5张票", 
+    "toast2": "不能为超过3种不同的运动购票", 
+    "toast3": "票已加入购物车！" }
+}

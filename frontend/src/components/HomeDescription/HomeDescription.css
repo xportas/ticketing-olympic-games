@@ -1,0 +1,38 @@
+.active {
+    display: flex;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: rgb(45, 197, 25);
+    border: 2px solid white;
+    bottom: 0;
+    right: 0;
+    position: relative;
+  }
+  .inactive {
+    display: flex;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: rgb(231, 15, 15);
+    border: 2px solid rgb(255, 255, 255);
+    bottom: 0;
+    right: 0;
+    position: relative;
+  }
+
+  .blink {
+    animation: blinker 1s cubic-bezier(.5, 0, 1, 1) infinite alternate;  
+  }
+  @keyframes blinker {  
+    from { 
+      opacity: 1;
+
+    
+    }
+    to { 
+      opacity: 0.50; 
+
+
+    }
+  }

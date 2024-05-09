@@ -1,0 +1,201 @@
+{
+  "homePage": {
+    "hero": {
+      "title": "BUY OLYMPIC 2024 TICKETS",
+      "subtitle": "Embark on the unforgettable! From single tickets to hospitality and travel packages, discover the offers available for the 2024 Paris Olympic and Paralympic Games.",
+      "btnBuyTickets": " Buy Tickets",
+      "btnCalendar": " Events Calendar"
+    },
+    "header": {
+      "openMainMenu": "Open main menu",
+      "btnHome": "Home",
+      "btnEvents": "Events"
+    },
+    "timer": {
+      "title": "Ticket Drawing",
+      "date": "3/31/24",
+      "days": "Days",
+      "hours": "Hours",
+      "mins": "Minutes",
+      "segs": "Seconds",
+      "finishedLottery": "Lottery Finished!",
+      "thanks": "Thank you for participating in our drawing."
+    },
+    "homeDescription": {
+      "question": "How do I buy tickets for the 2024 Olympic Games?",
+      "body": "Celebrate the Paris Olympics with us and enjoy world-class sports!",
+      "body2": "To purchase tickets for the 2024 Olympic Games, follow these simple steps:",
+      "register": "Registration",
+      "p1": "Register before ",
+      "p12": " to be able to purchase your tickets and enter the drawing for buying weeks, to have the chance to buy tickets for the exciting Olympic events.",
+      "span": "Info",
+      "span2": "Notice!",
+      "span3": "Register before March 30, 2024, to be able to buy your tickets. If you don't, you won't be able to participate in the purchasing weeks drawing.",
+      "p2": "Drawing and Group Assignment",
+      "p3": "Once registered, on ",
+      "p31": " a drawing will be held to organize users into 4 groups. Each group will have one week assigned in April and another in May to purchase tickets.",
+
+      "p4": "Buying Tickets",
+      "p5": "During the week assigned to your group, log in to the application and explore the list of available events. Select the event you wish to attend and choose the date and quantity of tickets you want to purchase. Complete the payment process securely through our available payment methods.",
+      "span4": "Info",
+      "div": "Remember that users can only purchase tickets during the assigned weeks and cannot try in other weeks, with a maximum of 5 tickets for every 3 events at most in each period.",
+      "felicidades": "Congratulations! You have purchased your tickets, now just wait and enjoy the event.",
+      "i": "Buy only from Official Sources",
+      "info": "When purchasing tickets or hospitality packages outside official channels, the buyer risks tickets or packages not being delivered to them, or being denied access to sports venues by the Paris 2024 Organizing Committee in accordance with the general terms and conditions of ticket sales. In addition, all buyers and/or sellers are informed that unauthorized sale or resale of tickets outside official channels constitutes a crime under French law, in particular, an offense punishable under article 313-6-2 of the French penal code."
+    },
+    "homeAccordion": {
+      "question": "How do I buy tickets for the 2024 Olympic Games?",
+      "preguntasFrecuentes": "Frequently Asked Questions",
+      "question1": "When is the deadline to register in the application and participate in the drawing to buy tickets?",
+      "response1": "The deadline to register in the application and participate in the drawing is March 30, 2024. Make sure to complete your registration before this date to have the opportunity to buy tickets for the 2024 Olympic Games.",
+      "question2": "How are groups assigned to purchase tickets and how many groups are there?",
+      "response2": "After registration closes on March 30, 2024, a drawing will be held to organize users into 4 groups. Each group will have one week assigned in April and another in May to purchase tickets.",
+      "question3": "Can I try to buy tickets in a week that does not correspond to my group?",
+      "response3": "No, users can only purchase tickets during the week assigned to their group. It will not be possible to try to buy tickets in a week other than the one assigned.",
+      "question4": "What happens if I fail to buy tickets during the week assigned to my group?",
+      "response4": "If you fail to buy tickets during the week assigned to your group, unfortunately, you will not be able to buy tickets for the 2024 Olympic Games. It is important to pay attention to the assigned dates and make the purchase within the specified period.",
+      "question5": "What should I do after buying my tickets?",
+      "response5": "After buying your tickets, make sure to review the event information, including the date, time, and location. Arrive at the event with enough time to avoid setbacks and fully enjoy the Olympic experience. Enjoy the 2024 Olympic Games!"
+    },
+    "footer": {
+      "politicaCookies": "Cookie Policy",
+      "ajustesCookies": "Cookie Settings",
+      "politicaPrivacidad": "Privacy Policy",
+      "terminosServicios": "Terms of Service",
+      "centroContact": "Contact Center",
+      "getNews": "Want to receive the latest news about the Olympics?",
+      "email": "Email",
+      "subs": "Subscribe",
+      "disponible": "Available on",
+      "copyright": "© Copyright ",
+      "derechosReservados": " International Olympic Committee. All rights reserved."
+    }
+  },
+  "profilePage": {
+    "profile": {
+      "userInfo": "User Information",
+      "userDetails": "User Details.",
+      "fullName": "Full Name",
+      "correo": "Email",
+      "verified": "Verified",
+      "token": "Token",
+      "lastUpdate": "Last Updated"
+    }
+  },
+  "logInPage": {
+    "logIn": {
+      "toastErrorName": "Name is required.",
+      "toastErrorMail": "Email is required.",
+      "toastErrorPass": "Password must be at least 8 characters long.",
+      "toastSuccess": "Registration completed",
+      "toastErrorAPIresponse": "Unknown error in API response",
+      "toastErrorServer": "Server error",
+      "toastErrorPassRep": "Passwords do not match.",
+      "createAccount": "Create an Account",
+      "fullName": "Full Name",
+      "mail": "Email Address",
+      "pass": "Password",
+      "repPass": "Repeat Password",
+      "createAcc": "Create Account",
+      "aceptCookies": "By registering, you accept our ",
+      "dataPolicy": "Data Policy",
+      "cookiesPolicy": "Cookie Policy",
+      "logIn": "Already have an account? Log In."
+    },
+    "cart": {
+      "deleteTickets": "Are you sure you want to delete all tickets ",
+      "discountAplicado": "Discount code applied successfully",
+      "maxBuy": "You cannot buy more than 15 tickets in a single order",
+      "toastErrorUserID": "Failed to get userId",
+      "toastErrorBuyTickets": "Error buying tickets",
+      "buyingTickets": "Buying tickets...",
+      "buyTicketsSuccess": "Tickets purchased successfully",
+      "emptyCart": "Are you sure you want to empty the cart?",
+      "obligatoryLogIn": "Must Log In",
+      "apologizeLogIn": "We apologize but you must log in to buy tickets.",
+      "logIn": "Log In",
+      "cart": "Cart",
+      "emptyCart2": "There are no tickets in the cart",
+      "payConfirm": "Payment Confirmation",
+      "noTicketsInCart": "There are no tickets in the cart",
+      "subtotal": "Subtotal",
+      "iva": "VAT",
+      "total": "Total",
+      "discount": "Discount Code",
+      "buy": "Buy",
+      "payApple": "Pay with ApplePay",
+      "payVisa": "Pay with Visa",
+      "payMastercard": "Pay with Mastercard",
+      "payPayPal": "Pay with PayPal",
+      "payAE": "Pay with American Express",
+      "securePays": "Secure Payments",
+      "secureData": "With popular payment partners, your personal data is secure.",
+      "click": "By clicking \"Buy\", you accept the Terms of Use and Privacy Policy of Olympic2024, whether the terms and conditions are accepted."
+    }
+  },
+  "calendarPage": {
+    "title": "Events Calendar",
+    "subtitle": "Here you can see the events we have scheduled for the 2024 Olympics.",
+    "noTickets": "Tickets could not be obtained.",
+    "getTicketsError": "Error getting tickets."
+  },
+  "eventsPage": {
+    "slotAssigned": {
+      "tokenError": "Failed to obtain access token.",
+      "mustLogIn": "Must Log In",
+      "apologize": "We apologize but you must log in to view possible events to purchase",
+      "login": "Log In",
+      "loading": "Loading...",
+      "shoppingWeeks": "Shopping Weeks",
+      "noSlots": "We regret to inform you that you do not have assigned slots at this time, you may not have been assigned to any slot or you may have missed the purchase date, we apologize for the inconvenience.",
+      "yesSlots": ", we are pleased to inform you that you have assigned slots.",
+      "dispones": "You have ",
+      "infoSlots": " assigned slots, in each of these slots you can buy your tickets for the event assigned to that slot. You have a total of 7 days to make the purchase of your tickets.",
+      "bienvenido": "Welcome ",
+      "maxTickets": "You have the possibility to buy a maximum of up to 5 tickets for 3 events at most in each purchase period.",
+      "assignedWeeks": "Assigned Weeks",
+      "week": "Week "
+    }
+  },
+  "loginButton": {
+    "login": "Log In"
+  },
+  "userNav": {
+    "loading": "Loading...",
+    "cesta": "Cart",
+    "logout": "Log Out",
+    "tickets": "Tickets"
+  },
+  "ticketCard": {
+    "description": "Description: ",
+    "seatsNum": "Number of available seats: ",
+    "addCart": "Add to Cart"
+  },
+  "productCard": {
+    "total": "Total: ",
+    "event": "Event: ",
+    "site": "Site No.: ",
+    "zone": "Zone: ",
+    "numTicketsAvailable": "Number of tickets available: ",
+    "date": "Date: ",
+    "addCart": "Add to Cart"
+  },
+  "boughtTicket": {
+    "mustLogIn": "Must Log In",
+    "apologize": "We apologize but you must log in to view possible events to purchase",
+    "buyedTickets": "Purchased Tickets ",
+    "seeTickets": "Here you can see the tickets you have purchased for the events of the 2024 Olympics",
+    "qr": "The generated QR code will be the one with which you can access the event."
+  },
+  "eventsAvailable": {
+    "toastError": "Sports could not be obtained.",
+    "selectSport": "Select a sport to see available tickets",
+    "selectWeek": "Select a week to see available events"
+  },
+  "perfil": "Profile",
+  "cartProvider": {
+    "toast1": "Cannot buy more than 5 tickets for the same sport",
+    "toast2": "Cannot buy tickets for more than 3 different sports",
+    "toast3": "Ticket added to cart!"
+}
+}
